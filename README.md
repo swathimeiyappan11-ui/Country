@@ -1,13 +1,13 @@
 # FastAPI Country > State > District > Village
 
-Simple Order Management API built using FastAPI.
+Simple Country API built using FastAPI.
 
 ## Features
 
-- Create Order
-- Get Orders
-- Update Order
-- Delete Order
+- Create Country
+- Get Country
+- Update Country
+- Delete Country
 
 ## Run Project
 
