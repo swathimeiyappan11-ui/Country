@@ -1,13 +1,13 @@
 # FastAPI Country > State > District > Village
 
-Simple Country API built using FastAPI.
+Simple Countries API built using FastAPI.
 
 ## Features
 
-- Create Country
-- Get Country
-- Update Country
-- Delete Country
+- Create Countries
+- Get Countries
+- Update Countries
+- Delete Countries
 
 ## Run Project
 
